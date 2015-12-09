@@ -1,0 +1,23 @@
+{
+  "name": "csdparser",
+  "version": "0.0.2",
+  "description": "A gulp plugin to edit Client Side Data",
+  "license": "MIT",
+  "keywords": [
+    "csdparser",
+    "gulp"
+  ],
+  "author": {
+    "name": "Arnaud Bertrand",
+    "email": "arnaud.bertrand@amadeus.com",
+    "url": "https://github.com/ArnaudBertrand"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0",
+    "js-beautify": "^1.5.10"
+  },
+  "devDependencies": {
+  }
+}
